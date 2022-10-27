@@ -33,6 +33,9 @@
         out.println("쿠키생성이 실패하였습니다.");
     }
 %>
+<a href="cookie01.jsp">쿠키확인</a>
+<a href="cookie02.jsp">쿠키상태</a>
+<a href="cookie03.jsp">쿠키삭제</a>
 </body>
 
 </html>

@@ -22,6 +22,8 @@
     <input type="password" id="user-pw" name="userPw" placeholder="비밀번호를 입력해주세요"><br>
     <button type="submit">전송</button>
 </form>
+<a href="cookie02.jsp">쿠키확인</a>
+<a href="cookie03.jsp">쿠키삭제</a>
 </body>
 
 </html>
